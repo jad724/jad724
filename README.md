@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Jad
+- 👀 I’m interested in arts
+- 🌱 I’m currently learning cs
+- 📫 How to reach me via email
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i hate sports 
